@@ -8,7 +8,6 @@ Os exercícios abordam conceitos importantes como:
 
 Estruturas de controle (condicionais, laços de repetição)
 
-
 Algoritmos (busca, ordenação, etc.)
 
 Manipulação de strings, arrays, e matrizes
