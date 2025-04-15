@@ -15,6 +15,7 @@ public class CoversaoDoTempo {
 		
 		
         System.out.println(horas + ":" + minutos + ":" + segundos);
+        // System.out.println(horas + ":");
 		
         sc.close();
 		
